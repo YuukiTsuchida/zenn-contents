@@ -1,0 +1,11 @@
+{
+  "name": "zenn-contents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YuukiTsuchida/zenn-contents.git",
+  "author": "Yuuki Tsuchida <dev.yuukitsuchida@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.133"
+  }
+}
